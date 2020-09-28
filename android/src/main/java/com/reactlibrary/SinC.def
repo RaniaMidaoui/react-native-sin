@@ -1,0 +1,4 @@
+LIBRARY SinC.dll
+
+EXPORTS
+Java_Sinus_SinC
